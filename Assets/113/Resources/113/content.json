@@ -1,0 +1,251 @@
+{
+	"id" : "113",
+	"global_id" : "mt1_l1",
+	"instructions" : "Answer the given addition with regrouping. The player will shoot the correct archery target that has the correct answer. Use the mouse control to aim the target and to fire out the arrow.",
+	"level 1" : [
+		  {
+			"Item": 1,
+			"Question": "11,+ 9",
+			"Correct": 20,
+			"Wrong 1": 18,
+			"Wrong 2": 21,
+			"Wrong 3": 19
+		  },
+		  {
+			"Item": 2,
+			"Question": "15,+ 7",
+			"Correct": 22,
+			"Wrong 1": 23,
+			"Wrong 2": 24,
+			"Wrong 3": 21
+		  },
+		  {
+			"Item": 3,
+			"Question": "17,+ 6",
+			"Correct": 23,
+			"Wrong 1": 21,
+			"Wrong 2": 22,
+			"Wrong 3": 24
+		  },
+		  {
+			"Item": 4,
+			"Question": "16,+ 7",
+			"Correct": 23,
+			"Wrong 1": 22,
+			"Wrong 2": 24,
+			"Wrong 3": 21
+		  },
+		  {
+			"Item": 5,
+			"Question": "14,+ 7",
+			"Correct": 21,
+			"Wrong 1": 19,
+			"Wrong 2": 20,
+			"Wrong 3": 18
+		  },
+		  {
+			"Item": 6,
+			"Question": "15,+ 6",
+			"Correct": 21,
+			"Wrong 1": 19,
+			"Wrong 2": 20,
+			"Wrong 3": 22
+		  },
+		  {
+			"Item": 7,
+			"Question": "13,+ 9",
+			"Correct": 22,
+			"Wrong 1": 22,
+			"Wrong 2": 19,
+			"Wrong 3": 22
+		  },
+		  {
+			"Item": 8,
+			"Question": "12,+ 9",
+			"Correct": 21,
+			"Wrong 1": 20,
+			"Wrong 2": 19,
+			"Wrong 3": 22
+		  },
+		  {
+			"Item": 9,
+			"Question": "11,+ 9",
+			"Correct": 20,
+			"Wrong 1": 21,
+			"Wrong 2": 18,
+			"Wrong 3": 19
+		  },
+		  {
+			"Item": 10,
+			"Question": "15,+ 5",
+			"Correct": 20,
+			"Wrong 1": 19,
+			"Wrong 2": 21,
+			"Wrong 3": 18
+		  }
+		],
+	"level 2" : [
+		  {
+			"Item": 1,
+			"Question": "14,+ 16",
+			"Correct": 30,
+			"Wrong 1": 28,
+			"Wrong 2": 31,
+			"Wrong 3": 29
+		  },
+		  {
+			"Item": 2,
+			"Question": "12,+ 9",
+			"Correct": 21,
+			"Wrong 1": 18,
+			"Wrong 2": 20,
+			"Wrong 3": 19
+		  },
+		  {
+			"Item": 3,
+			"Question": "15,+ 16",
+			"Correct": 31,
+			"Wrong 1": 29,
+			"Wrong 2": 30,
+			"Wrong 3": 28
+		  },
+		  {
+			"Item": 4,
+			"Question": "11,+ 19",
+			"Correct": 30,
+			"Wrong 1": 28,
+			"Wrong 2": 31,
+			"Wrong 3": 29
+		  },
+		  {
+			"Item": 5,
+			"Question": "16,+ 8",
+			"Correct": 24,
+			"Wrong 1": 21,
+			"Wrong 2": 23,
+			"Wrong 3": 22
+		  },
+		  {
+			"Item": 6,
+			"Question": "17,+ 6",
+			"Correct": 23,
+			"Wrong 1": 22,
+			"Wrong 2": 24,
+			"Wrong 3": 21
+		  },
+		  {
+			"Item": 7,
+			"Question": "13,+ 19",
+			"Correct": 32,
+			"Wrong 1": 30,
+			"Wrong 2": 29,
+			"Wrong 3": 31
+		  },
+		  {
+			"Item": 8,
+			"Question": "15,+ 18",
+			"Correct": 33,
+			"Wrong 1": 30,
+			"Wrong 2": 31,
+			"Wrong 3": 32
+		  },
+		  {
+			"Item": 9,
+			"Question": "17,+ 14",
+			"Correct": 31,
+			"Wrong 1": 33,
+			"Wrong 2": 30,
+			"Wrong 3": 32
+		  },
+		  {
+			"Item": 10,
+			"Question": "18,+ 13",
+			"Correct": 31,
+			"Wrong 1": 32,
+			"Wrong 2": 33,
+			"Wrong 3": 30
+		  }
+		],
+	"level 3" : [
+		  {
+			"Item": 1,
+			"Question": "17,+ 18",
+			"Correct": 35,
+			"Wrong 1": 33,
+			"Wrong 2": 32,
+			"Wrong 3": 34
+		  },
+		  {
+			"Item": 2,
+			"Question": "17,+ 16",
+			"Correct": 33,
+			"Wrong 1": 32,
+			"Wrong 2": 35,
+			"Wrong 3": 34
+		  },
+		  {
+			"Item": 3,
+			"Question": "18,+ 16",
+			"Correct": 34,
+			"Wrong 1": 33,
+			"Wrong 2": 31,
+			"Wrong 3": 32
+		  },
+		  {
+			"Item": 4,
+			"Question": "16,+ 19",
+			"Correct": 35,
+			"Wrong 1": 32,
+			"Wrong 2": 34,
+			"Wrong 3": 33
+		  },
+		  {
+			"Item": 5,
+			"Question": "19,+ 14",
+			"Correct": 33,
+			"Wrong 1": 31,
+			"Wrong 2": 30,
+			"Wrong 3": 32
+		  },
+		  {
+			"Item": 6,
+			"Question": "17,+ 17",
+			"Correct": 34,
+			"Wrong 1": 32,
+			"Wrong 2": 33,
+			"Wrong 3": 31
+		  },
+		  {
+			"Item": 7,
+			"Question": "12,+ 18",
+			"Correct": 30,
+			"Wrong 1": 28,
+			"Wrong 2": 31,
+			"Wrong 3": 29
+		  },
+		  {
+			"Item": 8,
+			"Question": "19,+ 15",
+			"Correct": 34,
+			"Wrong 1": 31,
+			"Wrong 2": 33,
+			"Wrong 3": 32
+		  },
+		  {
+			"Item": 9,
+			"Question": "13,+ 19",
+			"Correct": 32,
+			"Wrong 1": 29,
+			"Wrong 2": 31,
+			"Wrong 3": 30
+		  },
+		  {
+			"Item": 10,
+			"Question": "15,+ 17",
+			"Correct": 32,
+			"Wrong 1": 30,
+			"Wrong 2": 29,
+			"Wrong 3": 31
+		  }
+		]
+}
